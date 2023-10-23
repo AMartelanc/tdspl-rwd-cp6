@@ -6,7 +6,7 @@ export default function Home() {
       <h1>HOME PAGE</h1>
 
       <div>
-        <Link href="/produtos/tenis">TÊNIS</Link> | <Link href="/produtos/produto/tenis-preto">TÊNIS PRETO</Link> | <Link href="/produtos/produto/camisa/camisa-xadrez">CAMISA-X</Link>
+        <Link href="/produtos/estaticas/tenis">TÊNIS</Link> | <Link href="/produtos/dinamicas/estranho/tenis-preto">TÊNIS PRETO</Link> | <Link href="/produtos/dinamicas/vestuario/camisa-xadrez">CAMISA-X</Link>
       </div>
     </>
   )
